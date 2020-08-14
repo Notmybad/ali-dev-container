@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM FROM ubuntu:latest
+FROM ubuntu:latest
 
 # Install Nginx.
 RUN \
